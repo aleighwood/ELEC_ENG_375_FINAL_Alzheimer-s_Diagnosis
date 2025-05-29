@@ -1,0 +1,5 @@
+# Ignore all mp4 video files
+*.mp4
+*.pptx
+
+
