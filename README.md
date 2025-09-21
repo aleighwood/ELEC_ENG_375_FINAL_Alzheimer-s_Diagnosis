@@ -1,0 +1,1 @@
+Diagnosing Alzheimer's disease from handwriting. A comparison of different classifiers. Final project for fall 2024 class of Northwestern ELEC_ENG_375 Machine Learning. Lecturer: Santiago López Tapia.
